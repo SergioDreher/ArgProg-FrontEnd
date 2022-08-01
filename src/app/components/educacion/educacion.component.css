@@ -1,0 +1,15 @@
+.row{
+    padding: 20px;
+}
+
+h4{
+    font-size: medium;
+}
+
+li{
+    margin-left: 5%;
+}
+
+ul{
+    list-style: circle;
+}
